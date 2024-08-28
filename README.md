@@ -1,7 +1,7 @@
 # project
 Virat Kohli Performance Analysis
 
-Analyzing a player’s performance is one of the use cases of Machine Learning in sports analytics. Virat Kohli is one of the most famous cricketers in the world. So it will be a great ML project if we analyze the batting performance of Virat Kohli over the years. So if you want to learn how to analyze Virat Kohl’s performance, this article is for you. In this article, I will take you through the task of Virat Kohli Performance Analysis using Python.
+Analyzing a player’s performance is one of the use cases of Data Science in sports analytics. Virat Kohli is one of the most famous cricketers in the world. So it will be a great Data Science project if we analyze the batting performance of Virat Kohli over the years. So if you want to learn how to analyze Virat Kohl’s performance, this article is for you. In this article, I will take you through the task of Virat Kohli Performance Analysis using Python.
 
 Below is the complete information about all the columns in the dataset:
 
