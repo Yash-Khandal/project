@@ -14,5 +14,4 @@ Pos: Batting Position in the match
 Dismissal: How Virat Kohli got out in the match
 Inns: 1st and 2nd innings
 Opposition: Who was the opponent of India
-Ground: Venue of the match
-Start Date: Date of the match
+
